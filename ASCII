@@ -1,0 +1,7 @@
+program DrawCat;
+
+begin
+  writeln(' /\_/\ ');
+  writeln('( o.o )');
+  writeln(' > ^ < ');
+end.
